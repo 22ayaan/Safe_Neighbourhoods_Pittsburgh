@@ -7,7 +7,7 @@ This is the repository for the final project in Professor Arjun Chandrasekhar's 
 For our project, we picked three factors that we thought were most important for the determination of a good neighborhood. The Pittsburgh SNAP Census datasets (2010) had all the information we needed, indexed by neighborhood. The factors we chose were natural environmental conditions, health/safety, and housing.
 ---
 ## Data Sets
---
+---
 These datasets are all from the Pittsburgh SNAP Census data from 2010. Each of these datasets was indexed by neighborhood
 
   ### Public Safety
